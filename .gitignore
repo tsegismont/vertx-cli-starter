@@ -1,2 +1,4 @@
 .stack-manager-cache.json
 .vertx
+.idea/
+*.iml
